@@ -1,7 +1,7 @@
 # Indian-Medicine-Market-Intelligence-Dashboard
 Indian Medicine Market Intelligence Dashboard
 # Objective--
-Project Objective (GitHub ReadMe/Project Post):
+
 To build a professional, analytics-driven Power BI dashboard for the Indian Medicine Market, enabling users to visualize, compare, and gain actionable insights into medicine distribution, pricing, manufacturer activity, and market trends using a unique, rarely-used dataset.
 # 7 Bullet Points – Dashboard Features/Insights
 # 1 Comprehensive Market Overview:
